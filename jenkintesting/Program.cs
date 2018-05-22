@@ -10,7 +10,7 @@ namespace jenkintesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Lamda");
+            Console.WriteLine("Lamdaa");
         }
     }
 }
