@@ -10,7 +10,7 @@ namespace jenkintesting
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Jenkin");
+            Console.WriteLine("First Change");
              
         }
     }
