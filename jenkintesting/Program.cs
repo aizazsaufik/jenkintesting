@@ -11,8 +11,7 @@ namespace jenkintesting
         static void Main(string[] args)
         {
             Console.WriteLine("First Change");
-
-            Console.WriteLine("First Change");
+ 
 
         }
     }
